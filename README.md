@@ -8,11 +8,15 @@ It enables management to monitor profitability, identify underperforming regions
 🧩 Dashboard Structure
 
 The report is designed as a single-page interactive view focused on three key performance areas:
+
 Gross Profit Analysis – Monitors profit evolution (YTD vs PYTD) and identifies performance variations by month, country, and product.
+
 Sales Analysis – Evaluates revenue trends by product type and market.
+
 Quantity Performance – Tracks sales volumes to assess demand and operational efficiency.
 
 📊 Key Metrics (KPIs)
+
 Gross Profit YTD → 5.15M
 
 Gross Profit PYTD → 5.42M
@@ -26,11 +30,17 @@ Total Sales
 Total Quantity Sold
 
 🧠 Technologies & Skills
+
 Power BI Desktop for data visualization
+
 Power Query for data cleaning & transformation
+
 DAX for calculated measures and performance metrics
+
 Data Modeling (Star Schema)
+
 UX-focused dashboard design
 
 👤 Developed by: Chems Eddine – Power BI Developer / Data Analyst
+
 🕓 Tools: Power BI, Power Query, DAX, Data Modeling
