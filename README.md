@@ -14,10 +14,15 @@ Quantity Performance – Tracks sales volumes to assess demand and operational e
 
 📊 Key Metrics (KPIs)
 Gross Profit YTD → 5.15M
+
 Gross Profit PYTD → 5.42M
+
 Variation (YTD vs PYTD) → -265.29K
+
 Gross Profit % (GP%) → 39.62%
+
 Total Sales
+
 Total Quantity Sold
 
 🧠 Technologies & Skills
